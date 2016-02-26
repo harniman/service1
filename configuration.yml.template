@@ -1,4 +1,4 @@
-version: 1.0.0-1
+version: xxx-version-xxx
 template: Hello, %s!
 defaultName: Stranger
 server:
